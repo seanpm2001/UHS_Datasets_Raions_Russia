@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🇷🇺️🟩️ Data set for the Ukraine History Simulator project that contains data for the Raions of Russia
